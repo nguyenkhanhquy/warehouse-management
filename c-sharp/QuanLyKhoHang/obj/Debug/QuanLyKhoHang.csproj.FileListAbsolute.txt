@@ -1,0 +1,8 @@
+C:\Users\Quy\Desktop\OOP\CUOI_KY\QuanLyHangHoa\bin\Debug\QuanLyHangHoa.exe.config
+C:\Users\Quy\Desktop\OOP\CUOI_KY\QuanLyHangHoa\bin\Debug\QuanLyHangHoa.exe
+C:\Users\Quy\Desktop\OOP\CUOI_KY\QuanLyHangHoa\bin\Debug\QuanLyHangHoa.pdb
+C:\Users\Quy\Desktop\OOP\CUOI_KY\QuanLyHangHoa\obj\Debug\QuanLyKhoHang.csproj.AssemblyReference.cache
+C:\Users\Quy\Desktop\OOP\CUOI_KY\QuanLyHangHoa\obj\Debug\QuanLyKhoHang.csproj.SuggestedBindingRedirects.cache
+C:\Users\Quy\Desktop\OOP\CUOI_KY\QuanLyHangHoa\obj\Debug\QuanLyKhoHang.csproj.CoreCompileInputs.cache
+C:\Users\Quy\Desktop\OOP\CUOI_KY\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.exe
+C:\Users\Quy\Desktop\OOP\CUOI_KY\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.pdb
